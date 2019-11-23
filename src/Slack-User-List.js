@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import axios from "axios";
 import { Card,header} from "semantic-ui-react";
 
-let endpoint = "http://slackuserlist-server.herokuapp.com";
+let endpoint = "https://slackuserlist-server.herokuapp.com";
 
 class SlackUserList extends Component {
     constructor(props) {
