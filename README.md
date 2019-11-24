@@ -1,1 +1,1 @@
-# syncslackusersui
+# groot-ui
