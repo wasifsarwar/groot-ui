@@ -14,7 +14,7 @@ Groot uses a number of open source projects to work properly:
 
 ### Local Installation
 
-If you haven't already, head over to [groot backend] to install the back end application and get a API listener for your slack users started.
+If you haven't already done this, head over to [groot backend] to install the back end application and get a API listener for your slack users started.
 
 ```sh
 $ cd groot-ui
